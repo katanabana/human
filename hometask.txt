@@ -1,0 +1,2 @@
+2. Наличием точки в конце README
+4. Merge branch 'boots_buttons', Merge branch 'hat', Merge branch 'buttons' into boots_buttons, Merge branch 'boots' into boots_buttons, fix readme, dots, README added, boots, heat added, init
